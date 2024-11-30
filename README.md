@@ -24,7 +24,7 @@ Python libraries used in the project:
 *   Datasets
 
 
-<h2>🛠️ About dataset:</h2>
+<h2>🛠️ About dataset</h2>
 
 ```
 * Necessary for the prediction
