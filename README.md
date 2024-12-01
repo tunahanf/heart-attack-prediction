@@ -8,7 +8,7 @@
 
 <h2>🧐 Rundown</h2>
 
-*   The model predicts the you have high risk or low risk of heart attack.
+*   The model predicts whether you have a high-risk or low-risk of heart attack.
 *   Random Forest Classifier used as the classify algorithm.
 *   The dataset obtained from [Kaggle](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset)
 
